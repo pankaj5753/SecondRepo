@@ -1,1 +1,2 @@
 This is new file in second repo
+docker swarm join --token SWMTKN-1-3e5yqeixelo9jxea4elp7momifbjn6v7bc82sabio9ad7m7ca7-cxg9q3tsx6px6kvgw0nl8obbt 3.90.216.208:2377
